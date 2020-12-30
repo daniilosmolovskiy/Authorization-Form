@@ -1,11 +1,11 @@
 # form-app
 
-## Project setup
+## Project setup - в корне папки form-app выполнить
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development - в корне папки form-app выполнить
 ```
 npm run serve
 ```
